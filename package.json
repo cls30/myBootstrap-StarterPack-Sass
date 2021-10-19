@@ -21,5 +21,8 @@
   "bugs": {
     "url": "https://github.com/cls30/myBootstrap-StarterPack-Sass/issues"
   },
-  "homepage": "https://github.com/cls30/myBootstrap-StarterPack-Sass#readme"
+  "homepage": "https://github.com/cls30/myBootstrap-StarterPack-Sass#readme",
+  "devDependencies": {
+    "sass": "^1.43.2"
+  }
 }
