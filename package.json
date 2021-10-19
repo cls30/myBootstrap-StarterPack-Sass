@@ -1,0 +1,25 @@
+{
+  "name": "bootstrapstarterpack",
+  "version": "1.0.0",
+  "description": "initialization of a bootstrap project with sass",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cls30/myBootstrap-StarterPack-Sass.git"
+  },
+  "keywords": [
+    "bootstrap",
+    "5",
+    "sass",
+    "npm"
+  ],
+  "author": "Cedric Le Sergent",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cls30/myBootstrap-StarterPack-Sass/issues"
+  },
+  "homepage": "https://github.com/cls30/myBootstrap-StarterPack-Sass#readme"
+}
