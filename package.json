@@ -24,5 +24,8 @@
   "homepage": "https://github.com/cls30/myBootstrap-StarterPack-Sass#readme",
   "devDependencies": {
     "sass": "^1.43.2"
+  },
+  "dependencies": {
+    "bootstrap": "^5.1.3"
   }
 }
